@@ -12,7 +12,9 @@ Ardından aşağıda istenilen işlemleri gerçekleştiriniz.
 Then, perform the following tasks:
 - Create a new list from your original list, which should only contain comedy series. This new list should only include the series name, genre, and director (you will need another class to handle this).
 - Display all elements in this new list with all their attributes.Ensure the display order is sorted first by series name and then by director name.
-- 
+
+---
+
 ![image](https://github.com/NihatNadir/Patikaflix_Practice/blob/master/Patikaflix.jpg)
 
   
